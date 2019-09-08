@@ -1,0 +1,11 @@
+author="lipk, Ravana (maintainer)"
+description="Allows players assign another unit they own as leader, instead of the previous leader. Mainly intended for survival games."
+email=""
+icon="flags/long-flag-1.png"
+passphrase="
+title="Switch Leader"
+type="mod_mp"
+version="1.1.1"
+[feedback]
+	topic_id=39116
+[/feedback]
